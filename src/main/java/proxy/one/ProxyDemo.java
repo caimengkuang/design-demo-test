@@ -1,4 +1,4 @@
-package proxy.proxyOne;
+package proxy.one;
 
 /**
  * 代理模式测试类

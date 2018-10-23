@@ -1,7 +1,7 @@
-package proxy.proxyOne;
+package proxy.one;
 
-import proxy.proxyTwo.RealSubject;
-import proxy.proxyTwo.Subject;
+import proxy.two.RealSubject;
+import proxy.two.Subject;
 
 /**
  * 代理主题角色：

@@ -1,4 +1,4 @@
-package proxy.proxyTwo;
+package proxy.one;
 
 /**
  * 抽象主题角色：

@@ -1,4 +1,4 @@
-package proxy.proxyTwo;
+package proxy.two;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
